@@ -40,3 +40,6 @@ The cleaned dataset contains 18,979 players, and 77 attributes, after handling m
 Jupyter Notebook
 Numpy
 Pandas
+
+# Next Step
+The next step would be to perform exploratory data analysis and feature engineering as required for modelling process
